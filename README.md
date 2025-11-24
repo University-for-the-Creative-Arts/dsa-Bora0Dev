@@ -35,4 +35,4 @@ Overall, the final structure reflects an effective balance between clarity, inte
 
 ## Gameplay
 
-[![Watch the video]([(https://youtu.be/TEk6C4YmE5g)])
+# https://youtu.be/TEk6C4YmE5g
