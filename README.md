@@ -33,5 +33,5 @@ Lastly, managing the **flow of the narrative** without a graphical interface pos
 The game’s text prompts needed to guide the player naturally through exploration and trade, which required testing various message formats and command responses. 
 Overall, the final structure reflects an effective balance between clarity, interactivity, and maintainable code architecture.
 
-##Gameplay
+## Gameplay
 [![Watch the video](https://img.youtube.com/vi/nDGsJavuAdE/0.jpg)](https://youtu.be/nDGsJavuAdE)
